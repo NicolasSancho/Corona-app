@@ -1,0 +1,6 @@
+.main-controlls-container {
+  margin-top: 10vh;
+}
+.main-controlls-container * {
+  align-content: center;
+}
