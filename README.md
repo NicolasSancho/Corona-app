@@ -1,3 +1,7 @@
+## Message for dev team
+
+In order to reduce the original file size from 100mb to 18 I used regex, I have some experience using regex and creating dashboards with tons of data with Splunk :)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
